@@ -1,6 +1,3 @@
-theme: jekyll-theme-slate
-title: Welcome To Dominick DiTucci's Homepage!
-description: Feel free to check out my projects and keep coming back to see what's new
 
 ## Welcome To My Page! ##
 
