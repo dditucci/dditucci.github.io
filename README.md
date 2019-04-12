@@ -1,5 +1,5 @@
 
-## Welcome To My Page! ##
+## Welcome to my page! ##
 
 I\'m still working on expanding this page and adding more projects as they are completed\.
 
