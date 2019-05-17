@@ -1,7 +1,7 @@
 
 ## Welcome to my page! ##
 
-<center>Check out my projects and let me know what you think\.</center>
+<center>Check out my projects and let me know what you think.</center>
 
 ### <center><u>Projects</u> ###
 * [Salary Prediction Model - HR Analytics](https://github.com/dditucci/salary-prediction-portfolio)
