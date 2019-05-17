@@ -8,4 +8,4 @@
 <center> * [Recommendation System - Online Shopping](https://github.com/dditucci/E-Commerce-Recommendations) </center> 
 <center> * More coming soon! </center> 
 
-Visit my [GitHub](https://github.com/dditucci) or [LinkedIn](https://linkedin.com/in/dominick-ditucci/) profiles\!
+<center> Visit my [GitHub](https://github.com/dditucci) or [LinkedIn](https://linkedin.com/in/dominick-ditucci/) profiles! </center> 
