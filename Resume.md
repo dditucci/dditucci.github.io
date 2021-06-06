@@ -1,3 +1,106 @@
 layout: page
 title: "RESUME"
 permalink: https://deejayrusso.github.io/resume
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" type="text/css" href="./css/main.css">
+    <title>Dominick Resume</title>
+</head>
+
+<body>
+    <div class="name">
+        <h1> Dominick Russo</h1>
+        <h3>Data Analytics</h3>
+    </div>
+    <div class="row">
+        <div class="column left">
+            <h3 style="text-align:center">CONTACT</h3>
+            <p>Phone: 352-442-8830</p>
+            <a style="font-size:large" href="mailto:dominick.russo19@gmail.com">Email</a>
+            <a style="font-size: large" href="linkedin.com/in/dominick-russo">LinkedIn</a>
+            <a style="font-size:large" href="github.com/deejayrusso">GitHub</a>
+            <h3 style="text-align:center">PROFILE</h3>
+            <p style="font-size:medium; text-align: left">Aspiring Data Scientist interested in using analytics and  machine learning techniques to deliver key insights and contribute to improving business performance and revenue through problem solving and solution building</p>
+            <h3 style="text-align:center">HIGHEST EDUCATION</h3>
+
+            <p style="line-height:.25">Expected graduation 12/2021</p>
+            <p style="line-height:.25; font-weight:bold">University of South Florida [FL]</p>
+            <p style="line-height:.25">Master of Science, Business Analytics & Information Systems</p>
+            <br />
+            <p style="line-height:.25">2013</p>
+            <p style="line-height:.25; font-weight:bold">St. Petersburg College [FL]</p>
+            <p style="line-height:.25">Bachelor of Science</p>
+
+            <h3 style="text-align:center">TECHNICAL SKILLS</h3>
+            <ul class="a" style="left:10%">
+                <li>Data Analysis</li>
+                <li>Data Visualization</li>
+                <li>Statistics and Probability</li>
+                <li>Advanced Excel</li>
+                <li>Machine Learning</li>
+                <li>Python, R</li>
+                <li>SQL</li>
+                <li>PowerBI</li>
+            </ul>
+
+            <h3 style="text-align:center">MANAGEMENT SKILLS</h3>
+            <ul class="a" style="left:10%">
+                <li>Communication & Presentations</li>
+                <li>Training and Developmentn</li>
+                <li>Team Management</li>
+                <li>Decision Making</li>
+                <li>Prioritization</li>
+                <li>Problem Solving</li>
+                <li>Git</li>
+            </ul>
+
+        </div>
+
+    </div>
+    <div class="column right">
+        <ul class="b">
+            <h2 style="text-align:center">PROJECT EXPERIENCE</h2>
+            <h3 style="font-weight:bold">Human Resources Analytics<span style="font-weight:normal"> | Salary Predictions</span></h3>
+
+            <li>Automated and deployed a salary prediction application to guide HR in competitive compensation offers to recruit and retain top talent in competitive markets while controlling payroll expenses.</li>
+            <li>Developed in Python, the application uses polynomial regression to predict salaries using five different features with an MSE of 354.</li>
+            <br />
+            <h3 style="font-weight:bold">Online Substitutions & Complements <span style="font-weight:normal"> | Recommendation System</span></h3>
+            <li>Analyzed online shopping transactions using SQL. Found frequent item sets with MLXtend python library using the apriori algorithm and association rule mining on industrial products.</li>
+            <li>Used market basket analysis to generate complimentary products recommendations to increase sales. Includes presentation for business stakeholders.</li>
+            <br />
+            <h2 style=" text-align:center">RELEVANT WORK EXPERIENCE</h2>
+            <h4 style="color:grey">September 2019 - Present</h4>
+            <h3 style="line-height:.05; :bold">Sales & Marketing Analyst  <span style="font-weight:normal"> | DeMert Brands</span></h3>
+            <h4>Achievements:</h4>
+            <li>Saved company over $100K/yr by changing procurement of syndicated data. Removed consulting firm providing data analysis for routine needs and directly sourced and analyzed in-house.</li>
+            <li>Created an Excel allocation tool to evaluate shipment orders during COVID-19 supply chain strain. Tool used standardized formula and recent data to continually assess account’s “fair share” of product and guide executive team in allocation decisions, ensuring inventory reserves for high performing accounts.</li>
+            <li>Saved company over $100K/yr by changing procurement of syndicated data. Removed consulting firm providing data analysis for routine needs and directly sourced and analyzed in-house.</li>
+            <li>Initiated and contributed to development of data literacy program.</li>
+            <h4>Ongoing:</h4>
+            <li>Analyze syndicated (Nielsen) data and other sources to assess top-line business performance. Report monthly to executive leadership and Board of Directors to enable     informed decisions.</li>
+            <li>Educate sales team on product performance in the marketplace. Update data in presentations for use during sales meetings to improve odds of gaining new business, improving product mix, and expanding item count at retailers.</li>
+            <li>Forecast performance of new items through available data.</li>
+            <li>Provide competitive analysis to sales and marketing teams.</li>
+            <li>Evaluate performance of sales promotions and marketing campaigns.</li>
+            <li>Create and regularly evaluate financial forecast based on retail consumption for top accounts..</li>
+            <li>Work closely with executive team to create ad hoc reports, evaluation tools, and dashboards.</li>
+            <li>Advise on analytics and information systems needs to increase business intelligence capabilities.</li>
+            <br />
+            <br />
+        </ul>
+        
+
+    </div>
+
+</body>
+
+
+
+</html>
