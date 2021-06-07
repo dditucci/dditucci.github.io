@@ -1,3 +1,7 @@
 theme: jekyll-theme-merlot
 title: <h1 style="color:white;"><center>Dominick Russo</center></h1>
 description: <center><h3 style="color:white;">Data Analytics & Engineering Portfolio</center></h3>
+
+relative_links:
+  enabled:     false
+  collections: false
